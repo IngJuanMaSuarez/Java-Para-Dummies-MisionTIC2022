@@ -2,7 +2,7 @@
 
 ## Curso para aprender el lenguaje de programación Java desde cero y para principiantes
 
-![](./Imagenes/header.jpg)
+![](./Imagenes/header.png)
 
 ## Clases en vídeo
 
